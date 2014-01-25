@@ -1,1 +1,10 @@
 site :opscode
+cookbook 'yum'
+cookbook 'git'
+cookbook 'php'
+cookbook 'newrelic'
+cookbook 'apache2'
+cookbook 'mysql'
+cookbook 'remote_syslog'
+cookbook 'build-essential'
+cookbook 'vim'

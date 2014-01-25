@@ -1,0 +1,8 @@
+{
+  "run_list":[
+    "recipe[php]",
+    "recipe[build-essential]",
+    "recipe[apache2]"
+  ]
+}
+
